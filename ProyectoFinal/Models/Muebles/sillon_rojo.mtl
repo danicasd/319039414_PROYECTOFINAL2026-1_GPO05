@@ -1,0 +1,9 @@
+newmtl sillon_rojo:tripo_convert_7e1db217_b92f_4b26_9343_9bcc8337f3b4_tripo_mat_7e1db217_b92f_4b26_9343_9bcc8337f3b4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd tripo_image_7e1db217-b92f-4b26-9343-9bcc8337f3b4_0.jpg
+Ni 1.50
+Ks 0.50 0.50 0.50
+Ns 0.06

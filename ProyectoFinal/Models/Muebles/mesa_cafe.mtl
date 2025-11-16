@@ -1,0 +1,9 @@
+newmtl mesa_cafe2:tripo_convert_8fafa892_1eb8_49fd_8fb6_b0fc28df44d1_tripo_mat_8fafa892_1eb8_49fd_8fb6_b0fc28df44d1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd tripo_image_8fafa892-1eb8-49fd-8fb6-b0fc28df44d1_0.jpg
+Ni 1.50
+Ks 0.50 0.50 0.50
+Ns 0.06

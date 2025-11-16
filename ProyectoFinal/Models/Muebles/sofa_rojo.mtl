@@ -1,0 +1,9 @@
+newmtl tripo_convert_ef07c771_698e_4f7c_a311_6d75791a3f77:tripo_mat_ef07c771_698e_4f7c_a311_6d75791a3f77
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd tripo_image_ef07c771-698e-4f7c-a311-6d75791a3f77_0.jpg
+Ni 1.50
+Ks 0.50 0.50 0.50
+Ns 9.29
